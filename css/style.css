@@ -11,7 +11,8 @@ body {
   margin: 0;  
   font-family: 'Montserrat', sans-serif;
   font-weight: 300;
-  background-color: darkgray;
+  background-image: url("../images/waves.svg");
+ background-color: #cccccc;
 }
 
 h1, h2, h3, h4, p {
